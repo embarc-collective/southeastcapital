@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders without crashing 1`] = `
+<a
+  css={
+    Object {
+      "map": undefined,
+      "name": "167xh0t",
+      "next": undefined,
+      "styles": "
+    border: 0;
+    margin: 1rem;
+    text-align: center;
+    text-decoration: none;
+    min-width: 100px;
+    max-width: 300px;
+    display: inline-block;
+
+  ;
+      position: relative;
+      padding: 0.5rem;
+      color: undefined;
+      &:before {
+        content: \\"\\";
+        position: absolute;
+        width: 100%;
+        height: 3px;
+        bottom: 0;
+        left: 0;
+        background-color: undefined;
+        visibility: hidden;
+        -webkit-transform: scaleX(0);
+        transform: scaleX(0);
+        -webkit-transition: all 0.3s ease-in-out 0s;
+        transition: all 0.3s ease-in-out 0s;
+      }
+      &:hover:before {
+        visibility: visible;
+        -webkit-transform: scaleX(1);
+        transform: scaleX(1);
+      }
+    ;",
+    }
+  }
+  href="/slug"
+>
+  Button
+</a>
+`;
+
+exports[`Button renders without crashing when link==false 1`] = `
+<a
+  css={
+    Object {
+      "map": undefined,
+      "name": "167xh0t",
+      "next": undefined,
+      "styles": "
+    border: 0;
+    margin: 1rem;
+    text-align: center;
+    text-decoration: none;
+    min-width: 100px;
+    max-width: 300px;
+    display: inline-block;
+
+  ;
+      position: relative;
+      padding: 0.5rem;
+      color: undefined;
+      &:before {
+        content: \\"\\";
+        position: absolute;
+        width: 100%;
+        height: 3px;
+        bottom: 0;
+        left: 0;
+        background-color: undefined;
+        visibility: hidden;
+        -webkit-transform: scaleX(0);
+        transform: scaleX(0);
+        -webkit-transition: all 0.3s ease-in-out 0s;
+        transition: all 0.3s ease-in-out 0s;
+      }
+      &:hover:before {
+        visibility: visible;
+        -webkit-transform: scaleX(1);
+        transform: scaleX(1);
+      }
+    ;",
+    }
+  }
+  href="/slug"
+>
+  Button
+</a>
+`;
+
+exports[`Button renders without crashing when theme=secondary, type=line, use_border=true, link=false, new_tab=true 1`] = `
+<a
+  css={
+    Object {
+      "map": undefined,
+      "name": "153jwm",
+      "next": undefined,
+      "styles": "
+    border: 1px solid;
+    margin: 1rem;
+    text-align: center;
+    text-decoration: none;
+    min-width: 100px;
+    max-width: 300px;
+    display: inline-block;
+
+  ;
+      position: relative;
+      padding: 0.5rem;
+      color: undefined;
+      &:before {
+        content: \\"\\";
+        position: absolute;
+        width: 100%;
+        height: 3px;
+        bottom: 0;
+        left: 0;
+        background-color: undefined;
+        visibility: hidden;
+        -webkit-transform: scaleX(0);
+        transform: scaleX(0);
+        -webkit-transition: all 0.3s ease-in-out 0s;
+        transition: all 0.3s ease-in-out 0s;
+      }
+      &:hover:before {
+        visibility: visible;
+        -webkit-transform: scaleX(1);
+        transform: scaleX(1);
+      }
+    ;",
+    }
+  }
+  href="/slug"
+  rel="noopener noreferrer"
+  target="_blank"
+>
+  Button
+</a>
+`;

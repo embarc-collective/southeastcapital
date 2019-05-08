@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders without crashing 1`] = `
+<div
+  style={
+    Object {
+      "alignItems": "flex-end",
+      "backgroundColor": "white",
+      "display": "flex",
+      "flexWrap": "wrap",
+      "justifyContent": "space-between",
+      "marginBottom": "4rem",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "margin": "0",
+        "padding": "1.45rem 1.0875rem",
+      }
+    }
+  >
+    <a
+      href="/"
+      style={
+        Object {
+          "color": "#3b383f",
+          "textDecoration": "none",
+        }
+      }
+    >
+      <h1
+        style={
+          Object {
+            "margin": 0,
+          }
+        }
+      >
+        Tampa Bay
+      </h1>
+    </a>
+  </div>
+  <div
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "display": "flex",
+        "margin": "0",
+        "padding": "1rem",
+      }
+    }
+  >
+    <div>
+      foo
+    </div>
+    <div>
+      bar
+    </div>
+  </div>
+</div>
+`;
