@@ -1,6 +1,7 @@
 const path = require(`path`);
 
 module.exports = {
+  pathPrefix: "/southeastcapital",
   siteMetadata: {
     title: `Southeast Capital Landscape`,
     description: `A directory of Venture Capital Firms in the Southeast`,
