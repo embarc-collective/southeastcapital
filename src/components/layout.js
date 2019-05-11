@@ -78,7 +78,7 @@ const Layout = ({ children }) => (
             background-color:${data.site.siteMetadata.overscroll_background_color};`
           }>
             <Footer>
-                Built with <a href="https://www.gatsbyjs.org">Gatsby</a>
+                Built with <a href="https://www.gatsbyjs.org">Gatsby</a> | Hosted on <a href="https://github.com/embarc-collective/southeastcapital">Github</a>
             </Footer>
           </div>
         </Wrapper>
