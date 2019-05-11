@@ -51,6 +51,7 @@ export const Header = ({ siteTitle, backgroundColor }) => (
   <Headroom>
     <PureHeader siteTitle={siteTitle} backgroundColor={backgroundColor}>
       <Button text="About" url="/about" use_border={false} theme="primary" link={true} new_tab={false} type="line" />
+      <Button text="Add a Firm" url="/form" use_border={false} theme="primary" link={true} new_tab={false} type="line" />
     </PureHeader>
   </Headroom>
 )
