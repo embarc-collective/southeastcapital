@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-scaffold",
+  "name": "southeastcapital",
   "private": true,
-  "description": "Opinionated Scaffolding for Gatsby projects",
+  "description": "Southeast Capital Landscape Site",
   "version": "0.0.0",
   "author": "Fabio De Sousa",
   "dependencies": {
@@ -56,9 +56,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/embarc-collective/southeastcapital"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/embarc-collective/southeastcapital/issues"
   }
 }
