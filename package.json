@@ -52,7 +52,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^24.7.1",
     "prettier": "^1.15.2",
-    "react-test-renderer": "^16.8.6"
+    "react-test-renderer": "^16.10.2"
   },
   "repository": {
     "type": "git",
